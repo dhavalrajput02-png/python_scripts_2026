@@ -31,7 +31,14 @@ MASTER_MANIFEST_URLS = [
 "https://d13f1k5bcoch3z.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b96c27a151/abn_andhrajyoti/abnandhrajyothycdn/index.m3u8",
 "https://d1rzdclb147bs.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b96c27a151/kolkata_tv/kolkatatv/index.m3u8",
 "https://d3esntc4thfeda.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b96c27a151/sakshi_tv/sakshitv/index.m3u8",
-"https://d2uk2hcw7n1tv9.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b96c27a151/big_tv/bigtv/index.m3u8"
+"https://d2uk2hcw7n1tv9.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b96c27a151/big_tv/bigtv/index.m3u8",
+"https://d19jglf6lo77w6.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b96c27a151/gujarat_first/gujaratfirst/index.m3u8",
+"https://swifttv.ottlive.co.in/ctvnakdplus/index.m3u8",
+"https://swifttv.ottlive.co.in/cnnnews/index.m3u8",
+"https://swifttv.ottlive.co.in/rplusgold/index.m3u8",
+"https://swifttv.ottlive.co.in/argus/index.m3u8",
+"https://swifttv.ottlive.co.in/bharatexpress/index.m3u8",
+"https://swifttv.ottlive.co.in/4sidestv/index.m3u8"
 ]
 
 # ==========================================
